@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(245,245,245);
+}
+.topnavbar {
+  background-color: #243D4E!important;
+  border-bottom: 1px solid white;
+}
+.cursor-p{
+  cursor: pointer!important;
+}
+.nav-item{
+  text-align: center;
+}
+.nav-title{
+  color: white!important;
+  text-decoration: none!important;
+  font-size: 2rem;
+}
+.talogo {
+  max-width: 100px;
+}
+.HeadingFs{
+  font-size: 1.5rem;
+}
+.backspan{
+  font-size: 1.5rem;
+  color: #243d4e;
+  margin-right: 10px;
+  /* float: left; */
+}
+.custHeading{
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #243d4e;
+  border-bottom: 2px solid #243d4e;
+  padding-bottom: 10px;
+}
+.custIconSize{
+  width: 30px!important;
+  height: 30px!important;
+}
+.c-pointer {
+ cursor: pointer;
+}
+.pagination{
+  display: inline-flex!important;
+}
+.searchIpBox:focus{
+  outline: none!important;
+  box-shadow: none!important;
+}
+.btn:focus{
+  box-shadow: none!important;
+}
+.form-control:focus{
+  box-shadow: none!important;
+}
+.GamesTable thead{
+  background-color: #243d4e!important;
+  color: white!important;
+}
+.GameName a{
+  text-decoration: none!important;
+  color: #007bff!important;
+}
+.detailsCardDeck .card-header{
+  background-color: #243d4e!important;
+  text-align: center;
+  color: white!important;
+}
+.detailsCardDeck .card-text{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
